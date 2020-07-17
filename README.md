@@ -25,7 +25,7 @@ To be able to run Laravel Boilerplate you have to meet the following requirement
 
 3. Clone repository
 ```
-$ git clone https://github.com/AndriIstiawan/laravel-erp.git
+$ git clone 
 ```
 4. Checkout from branch master
 ```
